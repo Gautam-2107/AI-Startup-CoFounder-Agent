@@ -1,0 +1,57 @@
+AI Startup Co-Founder Agent Architecture
+
+
+                         USER
+                           │
+                           ▼
+
+                Startup Idea Input
+                           │
+                           ▼
+
+             AI Startup Co-Founder Agent
+                    (Orchestrator)
+                           │
+     ┌─────────────────────┼─────────────────────┐
+     │                     │                     │
+     ▼                     ▼                     ▼
+
+Market Agent      Competitor Agent      Business Agent
+
+     │                     │                     │
+     └─────────────────────┼─────────────────────┘
+                           │
+                           ▼
+
+                     Risk Agent
+                           │
+                           ▼
+
+                     SWOT Agent
+                           │
+                           ▼
+
+             Financial Projection Agent
+                           │
+                           ▼
+
+                      MVP Agent
+                           │
+                           ▼
+
+                    Scoring Agent
+                           │
+                           ▼
+
+             Executive Summary Agent
+                           │
+                           ▼
+
+                 Final Report Builder
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+
+         TXT Report                 PDF Report
+
