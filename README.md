@@ -141,6 +141,5 @@ Reports are exported as:
 
 ## Author
 
-Gautam
-B.Tech AI & Data Science
-Chaitanya Bharathi Institute of Technology (CBIT)
+Gautam Raju Saripalli
+
